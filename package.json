@@ -1,0 +1,15 @@
+{
+  "name": "printing-house-orders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.dart",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "StukachDanila",
+  "license": "ISC"
+}
